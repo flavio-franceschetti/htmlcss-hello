@@ -1,9 +1,14 @@
+body {
+  background-color: #48284a;
+}
+
 h1 {
   font-size: 82px;
-  color: aquamarine;
+  color: #7fffd4;
   text-align: center;
 }
 
 p {
   font-size: 24px;
+  color: #fff;
 }

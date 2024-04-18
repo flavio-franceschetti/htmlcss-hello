@@ -3,3 +3,8 @@ h1 {
   color: aquamarine;
   text-align: center;
 }
+
+p {
+  font-size: 24px;
+  color: red;
+}
